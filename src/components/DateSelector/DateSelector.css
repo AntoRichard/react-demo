@@ -1,0 +1,11 @@
+
+.arrow-dateselector{
+    padding: 10px 20px;
+}
+
+.dateselector-component {
+    display: flex;
+    justify-content: right;
+    margin-right: 25px;
+}
+ 
