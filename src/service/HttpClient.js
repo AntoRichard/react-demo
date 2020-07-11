@@ -13,5 +13,4 @@ export default function HttpClient(name) {
       resolve(dataSet)
     })
   })
-
 }
